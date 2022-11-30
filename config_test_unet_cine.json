@@ -1,0 +1,17 @@
+{
+    "name": "StrainNet",
+    "n_gpu": 2,
+
+    "arch": {
+        "type": "Unet",
+        "args": {}
+    },
+    "data_loader": {
+        "type": "StrainNetDataLoader",
+        "args":{
+            "data_dir": "./data/test_cine/",
+            "is_cine": true
+        }
+    },
+     "save_path": "./saved/result_test_cine/"
+}
