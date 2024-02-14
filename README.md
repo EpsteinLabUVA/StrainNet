@@ -15,7 +15,7 @@ Other packages and versions are listed in `requirements.txt`.
 <br/><br/>
 
 ## Pre-trained Model
-A pre-trained model is available [here](https://www.dropbox.com/s/yaoqz6gig8kovnn/model_best.pth?dl=0). This model should be put in `./saved/models/StrainNet/0422_000912/` folder.
+A pre-trained model is available [here](https://www.dropbox.com/scl/fi/2ezqjv04l6ulob1ku1wzm/model_best.pth?rlkey=go43i5sfc8f8b2zage9em4ikf&dl=0). This model should be put in `./saved/models/StrainNet/0422_000912/` folder.
 <br/><br/>
 
 ## Testing
