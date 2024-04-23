@@ -1,6 +1,20 @@
 # StrainNet
-### Improved Myocardial Strain Analysis of Cine MRI by Deep Learning from DENSE
-<br/>
+**Improved Myocardial Strain Analysis of Cine MRI by Deep Learning from DENSE** | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10316292/pdf/ryct.220196.pdf)
+
+StrainNet analysis of routine cardiac cine MRI provides clinical convenience similar to feature tracking and better agreement with displacement encoding with stimulated echoes for both global and segmental circumferential strain.
+
+**Reference**:
+Wang, Yu, et al. "StrainNet: improved myocardial strain analysis of cine MRI by deep learning from DENSE." Radiology: Cardiothoracic Imaging 5.3 (2023): e220196.
+
+---
+
+# TransStrainNet
+**Improved Strain Analysis of Cine MRI with Long-Range Spatiotemporal Relationship Learning**
+
+TransStrainNet is a transformer-based DL framework that combines the attention mechanisms for long-term dependencies and convolutions for local dependencies, capturing both global and local data for improved intramyocardial motion estimation from contour motion. 
+
+*Updated: April 2024*
+<br/><br/>
 
 ## Getting Started
 Current version is implemented with Python 3.9 and PyTorch 1.10.0. 
