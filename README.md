@@ -8,10 +8,10 @@ Wang, Yu, et al. "StrainNet: improved myocardial strain analysis of cine MRI by 
 
 ---
 
-# TransStrainNet
+# StrainNet-Transformer
 **Improved Strain Analysis of Cine MRI with Long-Range Spatiotemporal Relationship Learning**
 
-TransStrainNet is a transformer-based DL framework that combines the attention mechanisms for long-term dependencies and convolutions for local dependencies, capturing both global and local data for improved intramyocardial motion estimation from contour motion. 
+StrainNet-Transformer is a transformer-based DL framework that combines the attention mechanisms for long-term dependencies and convolutions for local dependencies, capturing both global and local data for improved intramyocardial motion estimation from contour motion. 
 
 *Updated: April 2024*
 <br/><br/>
